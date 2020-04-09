@@ -13,7 +13,7 @@ def get_details():
 #generate random password using user first and last name
 def gen_password(details):
     #using string import
-    characters = strings.ascii_letters
+    characters = string.ascii_letters
     length = 5
     #importing the random module
     random_password = ''.join([random.choice(characters) for n in range(length)])
