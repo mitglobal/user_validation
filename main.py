@@ -37,7 +37,7 @@ while status:
     password_loop = True
 
     while password_loop:
-        if password_like == 'Yes':
+        if password_like == 'yes':
             #add password to user details
             details.append(password)
 
@@ -75,3 +75,4 @@ while status:
                 print(item)
             else:
                 status = True
+        break
