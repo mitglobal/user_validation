@@ -1,5 +1,8 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <rules />
+    <rules>
+      <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
+      <Rule active="false" key="Web:DoctypePresenceCheck" />
+    </rules>
   </component>
 </application>
