@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="materialize" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_materialize_1.0.0_css_materialize.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_materialize_1.0.0_css_materialize.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
